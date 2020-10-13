@@ -40,6 +40,8 @@
     <TextView
         android:id="@+id/text_view_phone"
         android:layout_width="0dp"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"
         android:layout_height="30dp"
         android:layout_marginLeft="0dp"
         android:layout_marginRight="8dp"
@@ -55,6 +57,8 @@
     <TextView
         android:id="@+id/text_view_hours"
         android:layout_width="wrap_content"
+        android:clickable="true"
+        android:onClick="createPhoneIntent"
         android:layout_height="30dp"
         android:layout_marginLeft="0dp"
         android:layout_marginTop="0dp"
@@ -62,7 +66,8 @@
         android:text="Everyday 10am-10pm"
         android:textSize="18sp"
         app:layout_constraintLeft_toLeftOf="@+id/text_view_phone"
-        app:layout_constraintTop_toTopOf="@+id/image_view_hours" />
+        app:layout_constraintTop_toTopOf="@+id/image_view_hours"
+        android:focusable="true" />
 
     <ImageView
         android:id="@+id/image_view_phone"
