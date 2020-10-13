@@ -10,7 +10,7 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="Show Store Information Activity">
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -222,22 +222,22 @@
       <screen x="0" y="0" width="1440" height="900" />
     </state>
     <state x="214" y="0" key="CommitChangelistDialog2/0.0.1440.900@0.0.1440.900" timestamp="1602583579133" />
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1602584647300">
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom" timestamp="1602592006244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602584647300" />
-    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1602584647299">
+    <state width="1398" height="226" key="GridCell.Tab.0.bottom/0.0.1440.900@0.0.1440.900" timestamp="1602592006244" />
+    <state width="1398" height="226" key="GridCell.Tab.0.center" timestamp="1602592006243">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602584647299" />
-    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1602584647299">
+    <state width="1398" height="226" key="GridCell.Tab.0.center/0.0.1440.900@0.0.1440.900" timestamp="1602592006243" />
+    <state width="1398" height="226" key="GridCell.Tab.0.left" timestamp="1602592006243">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602584647299" />
-    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1602584647300">
+    <state width="1398" height="226" key="GridCell.Tab.0.left/0.0.1440.900@0.0.1440.900" timestamp="1602592006243" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right" timestamp="1602592006244">
       <screen x="0" y="0" width="1440" height="900" />
     </state>
-    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602584647300" />
+    <state width="1398" height="226" key="GridCell.Tab.0.right/0.0.1440.900@0.0.1440.900" timestamp="1602592006244" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/Android_CandyCodedApplication$com_in_app.ic" NAME="com in app Coverage Results" MODIFIED="1602582925366" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
